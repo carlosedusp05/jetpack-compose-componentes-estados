@@ -291,7 +291,7 @@ fun ComponentesEstadoScreen(modifier: Modifier = Modifier) {
 
                 colors = CheckboxDefaults.colors(
                     checkedColor = Color.Green,
-                    uncheckedColor = Color.Red
+                    uncheckedColor = Color.Black
                 )
             )
 
